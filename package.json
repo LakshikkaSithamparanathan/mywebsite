@@ -1,0 +1,16 @@
+{
+  "name": "Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://LakshikkaSithamparanathan.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
